@@ -35,7 +35,7 @@ code --install-extension dbaeumer.vscode-eslint
     "test:coverage": "yarn run test --config jest.coverage.config.ts --coverage"
   },
   "keywords": [],
-  "author": "Eyder Rios",
+  "author": "Gui",
   "license": "MIT",
   "resolutions": {
     "glob": "^9",
